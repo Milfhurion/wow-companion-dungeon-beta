@@ -1,6 +1,6 @@
 # WoW Companion Dungeon Beta
 
-Private Windows beta of the offline dungeon reference companion.
+Windows beta of the offline dungeon reference companion. Downloads are public and do not require a GitHub account.
 
 ## Scope
 
@@ -17,7 +17,7 @@ Download the versioned Setup executable from Releases and run it. Installation a
 
 ## Reporting a bug
 
-Use **Report a bug** in the app. Describe what happened and what you expected, optionally include the beta-window screenshot, review the diagnostics and save the ZIP locally. Attach the ZIP to a new issue in this private repository after checking its contents.
+Use **Report a bug** in the app. Describe what happened and what you expected, optionally include the beta-window screenshot, review the diagnostics and save the ZIP locally. Issues and attachments in this repository are public. Review and remove personal information before attaching a report ZIP.
 
 ## Current validation
 
@@ -25,4 +25,4 @@ Version 0.1.1 passed installation, packaged UI/map/item-tooltip checks, screensh
 
 ## Distribution status
 
-Private technical test build. The complete bundled-source, artwork and license review remains open. The installer contains supplied third-party notices and an inventory of unresolved source questions. Repository privacy does not settle those questions.
+Early technical test build. The complete bundled-source, artwork and license review remains open. The installer contains supplied third-party notices and an inventory of unresolved source questions. Public availability does not constitute a completed source or license review.
