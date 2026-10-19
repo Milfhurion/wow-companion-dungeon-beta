@@ -1,0 +1,12 @@
+# Installer binaries belong in versioned Releases, not Git history.
+*.exe
+*.zip
+*.sha256
+*.log
+.venv/
+__pycache__/
+work/
+data/
+WorldMapExtract/
+.env
+.env.*
